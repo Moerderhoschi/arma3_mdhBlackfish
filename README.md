@@ -89,4 +89,4 @@ CREDITS
 Armed-Assault.de Crew - For many great ArmA moments in many years
 BIS - For ArmA3
 
-You like my mod? Check out my other Mods: [Arma 3 Mods created by Moerderhoschi](https://steamcommunity.com/sharedfiles/filedetails/?id=3437964011)
+You like my mod? Check out my other Mods: [Arma 3 Mods created by Moerderhoschi](https://steamcommunity.com/sharedfiles/filedetails/?id=3408421250)
