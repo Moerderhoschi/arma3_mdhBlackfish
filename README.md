@@ -83,15 +83,10 @@ Disable radius action entries:
 - mdhBlackFishModRadiusDisable4 = true
 - mdhBlackFishModRadiusDisable5 = true
 
-ADDITIONAL FILES
-Contents of this download/subscription:
-- signature files
-- mod description/icons
-
 Dowload on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3407540432
 
 CREDITS
 Armed-Assault.de Crew - For many great ArmA moments in many years
 BIS - For ArmA3
 
-You like my mod? Check out my other Mods: Arma 3 Mods created by Moerderhoschi
+You like my mod? Check out my other Mods: [Arma 3 Mods created by Moerderhoschi](https://steamcommunity.com/sharedfiles/filedetails/?id=3437964011)
