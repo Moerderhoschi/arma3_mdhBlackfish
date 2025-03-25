@@ -12,7 +12,7 @@ HOW TO ZEROING THE GUNSHIP WEAPONS?
 Ingame go to "Options -> Controls -> Keyboard -> Weapons -> Laser Range" and the assigned key is for zeroing the weapons of the Blackfish Gunship.
 
 Mod options with global variables at missionstart:
-- see sample mission how to use -> [SP/CO12] MDH Blackfish Gunship - Campraid
+- see sample mission how to use -> [[SP/CO12] MDH Blackfish Gunship - Campraid](https://steamcommunity.com/sharedfiles/filedetails/?id=3412404493)
 
 Gunship call in action menue only with specific item:
 - mdhBlackFishModNeededItemToCall = "B_UavTerminal"
