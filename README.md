@@ -88,6 +88,8 @@ Contents of this download/subscription:
 - signature files
 - mod description/icons
 
+Dowload on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3407540432
+
 CREDITS
 Armed-Assault.de Crew - For many great ArmA moments in many years
 BIS - For ArmA3
