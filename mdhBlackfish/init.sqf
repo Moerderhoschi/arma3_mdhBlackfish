@@ -1,9 +1,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 // MDH BLACKFISH GUNSHIP MOD(by Moerderhoschi) - v2025-03-25
-// MADE BY MOERDERHOSCHI
-// 01.2025
 // github: https://github.com/Moerderhoschi/arma3_mdhBlackfish
-// https://steamcommunity.com/sharedfiles/filedetails/?id=3407540432
+// steam mod version: https://steamcommunity.com/sharedfiles/filedetails/?id=3407540432
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 if (!hasInterface) exitWith {};
 0 spawn
