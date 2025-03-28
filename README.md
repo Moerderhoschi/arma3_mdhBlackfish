@@ -1,4 +1,4 @@
- ![Alt text](https://images.steamusercontent.com/ugc/32188878001355153/8F23642BCED85DB0386798217BE8FB3488CCB5F8/)
+![1](https://github.com/user-attachments/assets/661aa0b1-6ccb-4ee8-8054-6c11abd68fe0)
 
 MDH Blackfish is a mod, created by Moerderhoschi for Arma 3. You are able to call an Blackfish Gunship and control it.
 
